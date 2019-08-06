@@ -1,0 +1,19 @@
+cd c:/test4      //进入这个文件夹
+
+
+git status     //查看git代码的状态，看看有没有需要提交的代码
+
+touch a.php     //创建一个 a.php 
+
+vi a           //编辑a.php  和linux的编辑文件代码一样
+
+git add .   //添加代码
+ 
+git commit -m "init"   //提交代码
+
+git push origin master   //同步到github服务器上，然后让输入用户名minihuabei和密码fyf123456，就会提交上去
+
+git push origin master
+
+git log
+//刷新github服务器发现代码已被同步
