@@ -17,3 +17,4 @@ git push origin master
 
 git log
 //刷新github服务器发现代码已被同步
+222
